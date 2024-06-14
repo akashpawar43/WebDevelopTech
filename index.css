@@ -123,7 +123,13 @@ main {
     text-align: center;
 }
 
-h2 { margin: 0.5rem;}
+.welcome .wel__pad {
+    padding: 0 5rem;
+}
+
+h2 {
+    margin: 0.5rem;
+}
 
 .wel-cont {
     display: flex;
@@ -137,9 +143,9 @@ h2 { margin: 0.5rem;}
 }
 
 .welcome picture img {
-    float: right; 
-    margin-left: 15px; 
-    margin-top: 1em;
+    float: right;
+    margin-left: 15px;
+    /* margin-top: 1em; */
 }
 
 .read-more {
@@ -198,6 +204,12 @@ footer a {
 }
 
 /* Responsive Styles */
+@media (max-width: 820px) {
+    .welcome .wel__pad {
+        padding: 0;
+    }
+}
+
 @media (max-width: 768px) {
     .desktop-nav {
         display: none;
