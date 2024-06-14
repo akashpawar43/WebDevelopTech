@@ -20,11 +20,11 @@
 ## HomePage
 
 1. Desktop
-<img src="https://github.com/akashpawar43/WebDevelopTech/tree/master/images/desktop-view.png" alt="project-screenshot" >
+<img src="https://github.com/akashpawar43/WebDevelopTech/blob/master/images/desktop-view.png" alt="project-screenshot" >
 1. Tablet
-<img src="https://github.com/akashpawar43/WebDevelopTech/tree/master/images/tablet-view.png" alt="project-screenshot" >
+<img src="https://github.com/akashpawar43/WebDevelopTech/blob/master/images/tablet-view.png" alt="project-screenshot" >
 1. Mobile
-<img src="https://github.com/akashpawar43/WebDevelopTech/tree/master/images/mobile-view.png" alt="project-screenshot" >
+<img src="https://github.com/akashpawar43/WebDevelopTech/blob/master/images/mobile-view.png" alt="project-screenshot" >
 
 
 
