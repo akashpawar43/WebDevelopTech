@@ -14,7 +14,6 @@
 
 
 
-
 <h2>Project Screenshots:</h2>
 
 ## HomePage
