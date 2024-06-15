@@ -81,7 +81,7 @@ nav ul li a {
 /* Mobile Menu */
 .mobile-menu {
     display: none;
-    background-color: #e58d41;
+    /* background-color: #e58d41; */
     order: 3;
 }
 
@@ -102,7 +102,7 @@ nav ul li a {
 
 .mobile-menu ul li a {
     text-decoration: none;
-    color: white;
+    /* color: white; */
 }
 
 /* Main Content */
